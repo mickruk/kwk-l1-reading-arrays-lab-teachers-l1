@@ -1,7 +1,7 @@
 student_name = []
 #arrays are formed by using square brackets [ ] 
 
-#student_names = ['sam', 'jess', 'ash', 'bob', 'carla']
+student_names = ['sam', 'jess', 'ash', 'bob', 'carla']
 #puts student_names
 
 #puts [name of your array] prints out the imformation in your array in he terminal
