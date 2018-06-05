@@ -1,4 +1,4 @@
-#student_name = []
+student_name = []
 #arrays are formed by using square brackets [ ] 
 
 #student_names = ['sam', 'jess', 'ash', 'bob', 'carla']
