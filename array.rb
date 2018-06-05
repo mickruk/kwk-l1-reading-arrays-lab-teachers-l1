@@ -16,3 +16,10 @@ puts student_names
 #array name ('what you want to add').push will add it to the array 
 student_names.push('matt', 'albert')
 puts student_names
+
+
+student_names << "mac"
+
+puts student_names
+
+#<< only 
