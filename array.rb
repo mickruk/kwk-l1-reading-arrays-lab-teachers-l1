@@ -22,4 +22,9 @@ student_names << "mac"
 
 puts student_names
 
-#<< only 
+#<< only allows you to add one thing at a time_select
+student_names.push('betty', 'mack')
+puts student_names.size
+
+
+
